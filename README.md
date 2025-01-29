@@ -1249,7 +1249,7 @@ support for C.
 [28]: http://www.koanlogic.com/libu/
 [29]: https://github.com/antirez/sds
 [30]: https://en.wikipedia.org/wiki/MIME
-[31]: https://trumpowen.github.io/MegaMimes
+[31]: https://kobbyowen.github.io/MegaMimes
 [32]: https://github.com/kgabis/parson
 [33]: https://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization
 [34]: http://re2c.org/index.html
