@@ -263,8 +263,6 @@ Databases and data stores with C APIs.
 * [MySQL][551] - The world's most popular open source database. [``GPL-2.0-only``][GPL-2.0-only]
 * [PostgreSQL][121] - Powerful object-relational database system. [``PostgreSQL``][PostgreSQL]
 * [Redis][51] - Advanced key-value store. [``BSD-3-Clause``][BSD-3-Clause]
-* [sophia][244] - Modern, embeddable key-value database.
-  [``BSD-2-Clause``][BSD-2-Clause]
 * [sparkey][509] - Simple constant key/value storage library. Designed for
   read-heavy loads with infrequent, large bulk inserts.
   [``Apache-2.0``][Apache-2.0]
@@ -1414,7 +1412,6 @@ support for C.
 [214]: https://github.com/adamierymenko/huffandpuff
 [215]: https://sourceforge.net/projects/vtd-xml/
 [216]: https://michaelrsweet.github.io?Z3
-[217]: http://svn.msweet.org/mxml/trunk/COPYING
 [218]: http://ezxml.sourceforge.net/
 [219]: https://github.com/blunderer/libroxml
 [220]: https://github.com/DanielGibson/Snippets/
@@ -1441,7 +1438,6 @@ support for C.
 [241]: https://github.com/gpakosz/PackedArray
 [242]: http://concurrencykit.org
 [243]: http://repo.hu/projects/cchan/
-[244]: http://sophia.systems
 [245]: http://www.greenend.org.uk/rjk/tech/inline.html
 [246]: https://criterion.readthedocs.io/en/master
 [247]: https://port70.net/~nsz/c/c11/n1570.html
