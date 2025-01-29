@@ -1461,7 +1461,6 @@ support for C.
 [265]: https://computing.llnl.gov/tutorials/mpi/
 [266]: https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
-[268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
 [269]: https://logological.org/gpp
 [270]: https://github.com/docopt/docopt.c
 [271]: https://xmake.io/
@@ -1479,7 +1478,7 @@ support for C.
 [284]: https://github.com/open-mpi/ompi
 [285]: http://www.mpich.org/
 [286]: http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT
-[287]: http://mingw-w64.yaxm.org/doku.php/start
+[287]: https://www.mingw-w64.org/
 [288]: https://github.com/google/sanitizers
 [289]: https://github.com/include-what-you-use/include-what-you-use
 [290]: http://dotat.at/prog/unifdef/
