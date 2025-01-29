@@ -1268,7 +1268,6 @@ support for C.
 [49]: https://github.com/vasi/pixz
 [50]: https://www.libsdl.org/
 [51]: https://redis.io/
-[52]: http://zeromq.org/
 [53]: http://www.digip.org/jansson/
 [54]: http://www.colm.net/open-source/ragel/
 [55]: https://dl.acm.org/citation.cfm?id=179241
