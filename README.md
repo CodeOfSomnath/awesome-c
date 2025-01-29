@@ -1325,7 +1325,7 @@ support for C.
 [114]: https://github.com/nothings/stb
 [115]: https://tinycthread.github.io/
 [116]: http://mike.steinert.ca/bstring/
-[117]: http://coap.technology/
+[117]: https://coap.space/
 [118]: http://facil.io/
 [119]: https://www.enlightenment.org
 [120]: https://zserge.com/jsmn.html
