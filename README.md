@@ -356,7 +356,6 @@ work.
 Fancier, IDE-type editors. If you want a programmer's text editor, look
 elsewhere. Besides, whatever you use most likely supports C anyway.
 
-* [Anjuta DevStudio][42] - GNOME IDE. [``GPL-2.0-only``][GPL-2.0-only]
 * [Code::Blocks][249] - Extendable, configurable IDE supporting
   C. [``GPL-3.0-only``][GPL-3.0-only]
 * [CodeLite][45] - Cross-platform IDE. [``GPL-2.0-only``][GPL-2.0-only]
@@ -1260,7 +1259,6 @@ support for C.
 [39]: https://github.com/recp/json
 [40]: https://gcc.gnu.org/
 [41]: https://github.com/libgit2/libgit2/blob/master/COPYING
-[42]: http://anjuta.org/
 [43]: https://www.geany.org/
 [44]: https://www.kdevelop.org/
 [45]: https://www.codelite.org/
