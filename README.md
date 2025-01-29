@@ -1340,7 +1340,6 @@ support for C.
 [129]: https://github.com/protobuf-c/protobuf-c
 [130]: https://github.com/jmckaskill/c-capnproto
 [131]: https://en.wikipedia.org/wiki/External_Data_Representation
-[132]: https://bitbucket.org/martijnj/msgpackalt
 [133]: http://www.netlib.org/lapack/lapacke.html
 [134]: http://www.netlib.org/lapack/
 [135]: https://github.com/martinh/libconfuse
