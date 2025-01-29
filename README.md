@@ -692,8 +692,6 @@ comprehensive and high-level, you may want the Web Frameworks section.
   SMTP, POP and NNTP. [``BSD-3-Clause``][BSD-3-Clause]
 * [libev][144] - Yet another event loop. [``BSD-2-Clause``][BSD-2-Clause]
 * [libevent][124] - Event loop replacement for network servers. [``BSD-3-Clause``][BSD-3-Clause]
-* [libhttpd][166] - Library to add basic web server capabilities to an
-  application or embedded device. [``GPL-2.0-only``][GPL-2.0-only]
 * [libhv][564] - Cross platform event loop library. [``BSD-3-Clause``][BSD-3-Clause]
 * [libidn][164] - Implementation of the Stringprep, Punycode and IDNA
   specifications. [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1372,7 +1370,7 @@ support for C.
 [163]: https://gnu.org/software/libiconv/
 [164]: https://gnu.org/software/libidn/
 [165]: https://gnu.org/software/libmicrohttpd/
-[166]: https://www.hughes.com.au/products/libhttpd/
+
 [167]: https://github.com/gpakosz/whereami
 [168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
