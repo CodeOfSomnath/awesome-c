@@ -1347,7 +1347,7 @@ support for C.
 [137]: http://math-atlas.sourceforge.net/
 [138]: http://lionet.info/asn1c/compiler.html
 [139]: https://github.com/nanomsg/nanomsg
-[140]: http://avro.apache.org/docs/current/api/c/index.html#_introduction_to_avro_c
+[140]: https://avro.apache.org/
 [141]: https://cmocka.org/
 [142]: https://gnupg.org/related_software/libgcrypt
 [143]: https://github.com/libressl-portable/
