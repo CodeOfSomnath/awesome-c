@@ -1293,7 +1293,6 @@ support for C.
 [78]: http://apr.apache.org/
 [79]: https://gmplib.org/
 [80]: https://github.com/cesanta/slre
-[81]: http://tiny-rex.sourceforge.net/
 [82]: https://github.com/laurikari/tre/
 [83]: http://www.pcre.org/
 [84]: https://github.com/Tuplanolla/cheat
