@@ -1513,7 +1513,6 @@ support for C.
 [320]: https://www.gnu.org/software/ddd/ddd.html
 [321]: http://docutils.sourceforge.net/
 [322]: https://hplgit.github.io/doconce/doc/web/index.html
-[323]: http://fabutil.org/
 [324]: https://www.gnu.org/software/make/
 [325]: https://github.com/libfann/fann
 [326]: https://github.com/centaurean/spookyhash
