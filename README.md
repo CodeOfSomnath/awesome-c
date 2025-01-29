@@ -1359,7 +1359,6 @@ support for C.
 [149]: https://github.com/flycheck/flycheck
 [150]: http://joaotavora.github.io/yasnippet/
 [151]: https://github.com/ycm-core/YouCompleteMe
-[152]: https://sites.google.com/site/lccretargetablecompiler/
 [153]: https://github.com/drh/lcc/blob/master/CPYRIGHT
 [154]: https://github.com/swenson/vector.h
 [155]: https://www.gnu.org/software/adns/
