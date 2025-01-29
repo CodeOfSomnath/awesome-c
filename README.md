@@ -124,8 +124,6 @@ Compilers, as well as compiler- and compilation-related tooling.
   license. [``LGPL-2.1-only``][LGPL-2.1-only]
 * [GCC][40] - Provides a C compiler as part of its compiler set. Supports
   C11. [``GPL-3.0-or-later``][GPL-3.0-or-later]
-* [PCC][74] - Venerable compiler. Supports C99. [Various licenses][75], all
-  open source.
 
 ## Compression ##
 
@@ -1294,8 +1292,7 @@ support for C.
 [71]: https://sourceforge.net/projects/kissfft/
 [72]: https://bitbucket.org/MDukhan/yeppp
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
-[74]: http://pcc.ludd.ltu.se/
-[75]: http://pcc.ludd.ltu.se/licenses/
+
 [76]: http://attractivechaos.github.io/klib/#About
 [77]: https://github.com/netmail-open/wjelement/
 [78]: http://apr.apache.org/
