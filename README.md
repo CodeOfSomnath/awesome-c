@@ -984,8 +984,6 @@ registration and can output to multiple formats, like the TAP format or JUnit XM
 While practically any decent programmer's text editor supports C, there are some
 extensions that make it more pleasant. These are labelled by editor.
 
-* [CCompletion][92] - Notepad++ autocompletion plugin. Works with all
-  identifiers recognized by Ctags. This is a download link. [``GPL-2.0-or-later``][GPL-2.0-or-later]
 * [CEDET][250] - Collection of Emacs Development Environment Tools; designed to
   provide IDE-like features to Emacs. Built-in.
   [``GPL-3.0-or-later``][GPL-3.0-or-later]
@@ -1303,7 +1301,6 @@ support for C.
 [89]: http://expat.sourceforge.net/
 [90]: https://www.sfml-dev.org/download/csfml/
 [91]: https://www.sfml-dev.org/index.php
-[92]: http://freeweb.siol.net/rmihor/NppCCompletionPlugin.zip
 [93]: https://github.com/keybuk/libnih
 [94]: http://cunit.sourceforge.net/
 [95]: https://rr-project.org/
