@@ -1212,7 +1212,6 @@ support for C.
 [WTFPL]: https://spdx.org/licenses/WTFPL.html
 [X11]: https://spdx.org/licenses/X11.html
 [Zlib]: https://spdx.org/licenses/Zlib.html
-
 [1]: https://github.com/Dead2/zlib-ng
 [2]: https://github.com/Cyan4973/FiniteStateEntropy
 [3]: https://github.com/dertuxmalwieder/libvldmail
@@ -1227,12 +1226,10 @@ support for C.
 [12]: https://uclibc-ng.org/
 [13]: https://opensource.org/osd
 [14]: https://www.gtk.org/
-
 [16]: http://webserver2.tecgraf.puc-rio.br/iup/
 [17]: https://github.com/saitoha/libsixel
 [18]: https://www.enlightenment.org?p=about%252Flibs
 [19]: http://www.tcl.tk/
-
 [21]: http://xforms-toolkit.org/
 [22]: https://www.sqlite.org/
 [23]: https://unqlite.symisc.net/
@@ -1283,7 +1280,6 @@ support for C.
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
-
 [76]: http://attractivechaos.github.io/klib/#About
 [77]: https://github.com/netmail-open/wjelement/
 [78]: http://apr.apache.org/
@@ -1370,7 +1366,6 @@ support for C.
 [163]: https://gnu.org/software/libiconv/
 [164]: https://gnu.org/software/libidn/
 [165]: https://gnu.org/software/libmicrohttpd/
-
 [167]: https://github.com/gpakosz/whereami
 [168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
@@ -1389,7 +1384,6 @@ support for C.
 [182]: http://shop.oreilly.com/product/9780596004361.do
 [183]: http://shop.oreilly.com/product/0636920026136.do
 [184]: https://www.pearson.com/us/higher-education/program/Prata-C-Primer-Plus-6th-Edition/PGM4399.html
-[185]: http://www.planetpdf.com/codecuts/pdfs/ooc.pdf
 [186]: https://github.com/vim-syntastic/syntastic
 [187]: https://github.com/dvidelabs/flatcc
 [188]: http://apophenia.info
