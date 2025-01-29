@@ -782,7 +782,6 @@ comprehensive and high-level, you may want the Web Frameworks section.
   problems on parallel computers. [``LGPL-3.0-only``][LGPL-3.0-only]
 * [TomsFastMath][462] - Set of optimized maths operations (in assembly),
   suitable for cryptographic use. Public domain.
-* [Yeppp!][72] - Fast, SIMD-optimized mathematical library. [``BSD-3-Clause``][BSD-3-Clause]
 
 ## Profiling ##
 
@@ -1287,7 +1286,6 @@ support for C.
 [69]: https://lodev.org/lodepng/
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
-[72]: https://bitbucket.org/MDukhan/yeppp
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
 
 [76]: http://attractivechaos.github.io/klib/#About
