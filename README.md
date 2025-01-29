@@ -75,7 +75,6 @@ Basically, if your university calls it AI, it lives here.
 
 * [ccv][195] - C-based/Cached/Core Computer Vision library; modern computer
   vision. [``BSD-3-Clause``][BSD-3-Clause]
-* [Cranium][525] - Portable, header-only ANN library in C99. [``MIT``][MIT]
 * [FANN][325] - Fast Artifical Neural Network library; an implementation of
   neural networks. [``GPL-2.0-only``][GPL-2.0-only]
 * [Genann][412] - Simple ANN in C89, without additional dependencies. [``Zlib``][Zlib]
@@ -1742,7 +1741,6 @@ support for C.
 [522]: http://cyan4973.github.io/xxHash
 [523]: https://github.com/aubio/aubio
 [524]: https://github.com/groonga/groonga
-[525]: https://100.github.io/Cranium/
 [526]: http://www.saphir2.com/sphlib/
 [527]: https://github.com/google/highwayhash
 [528]: http://nullprogram.com/blog/2017/08/20/
